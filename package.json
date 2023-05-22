@@ -1,0 +1,31 @@
+{
+  "name": "temadrak",
+  "displayName": "temadrak",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "dark_colors",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark_colors-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icon/dark.jpg",
+  "author": {
+    "name": "ANGEL RODRIGUEZ",
+    "email": "conejo3444@gmail.com"
+  },
+  "repository": {
+    "url": "https://github.com/PANDY124/temadrak.git",
+    "directory": "git"
+  },
+  "publisher": "temadrak"
+}
