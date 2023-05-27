@@ -1,13 +1,13 @@
 {
 	"name": "dark_colors",
 	"colors": {
-		"editor.background": "#14151d",
+		"editor.background": "#000000",
 		"editor.foreground": "#d1d2ff",
 		"activityBarBadge.background": "#f33303",
 		"activityBar.activeBackground": "#fff5f573",
 		"sideBar.background": "#050505",
 		"sideBarTitle.foreground": "#ff0000",
-		"editorLineNumber.foreground":"#ff0000",
+		"editorLineNumber.foreground":"#ffffff",
 		"editorLineNumber.activeForeground":"#f703ff",
 		"editorCursor.foreground":"#ff0000",
 		"editor.selectionBackground":"#00ff0d71",
@@ -28,6 +28,15 @@
 		"list.activeSelectionForeground":"#ff0000",
 		"list.activeSelectionBackground":"#092e47",
 		"activityBar.foreground":"#01ff4d",
+		"tab.inactiveBackground": "#0000003b",
+		"tab.activeBackground": "#131313",
+		"tab.activeForeground":"#ffffff",
+		"tab.hoverBackground": "#ff040491",
+		"editorGroup.emptyBackground":"#000000",
+		"editorGroup.dropIntoPromptBackground":"#b700fffb",
+		
+		
+		 
 		
 		
 		
