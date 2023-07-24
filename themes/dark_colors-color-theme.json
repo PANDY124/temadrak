@@ -3,20 +3,21 @@
 	"colors": {
 		"editor.background": "#000000",
 		"editor.foreground": "#d1d2ff",
-		"activityBarBadge.background": "#f33303",
-		"activityBar.activeBackground": "#fff5f573",
+		"activityBarBadge.background": "#c401ff",
+		"activityBarBadge.foreground": "#f9f9f9",
+		"activityBar.activeBackground": "#b60eaa6a",
 		"sideBar.background": "#050505",
 		"sideBarTitle.foreground": "#ff0000",
 		"editorLineNumber.foreground":"#ffffff",
 		"editorLineNumber.activeForeground":"#f703ff",
 		"editorCursor.foreground":"#ff0000",
 		"editor.selectionBackground":"#00ff0d71",
-		"editor.lineHighlightBackground":"#f3f3f32a",
+		"editor.lineHighlightBackground":"#7cdacd3e",
 		"editorBracketHighlight.foreground1":"#003cff",
 		"editorBracketHighlight.foreground2":"#ffffff",
-		"editorBracketHighlight.foreground3":"#148034",
+		"editorBracketHighlight.foreground3":"#ffff00",
 		"editorBracketHighlight.foreground4":"#ff00ff",
-		"editorBracketHighlight.foreground5":"#ff6a6a",
+		"editorBracketHighlight.foreground5":"#000000",
 		"editorBracketHighlight.foreground6":"#890aff",
 		"panel.background":"#000000",
 		"statusBar.background":"#000000",
@@ -25,7 +26,7 @@
 		"menu.background":"#1281e9b6",
 		"menu.selectionForeground":"#ffffff",
 		"activityBar.background": "#000000",
-		"list.activeSelectionForeground":"#ff0000",
+		"list.activeSelectionForeground":"#fffafa",
 		"list.activeSelectionBackground":"#092e47",
 		"activityBar.foreground":"#01ff4d",
 		"tab.inactiveBackground": "#0000003b",
@@ -34,15 +35,16 @@
 		"tab.hoverBackground": "#ff040491",
 		"editorGroup.emptyBackground":"#000000",
 		"editorGroup.dropIntoPromptBackground":"#b700fffb",
+		"input.background": "#2dddc030",
+		"scrollbarSlider.background": "#37e4ff4b",
+		"scrollbarSlider.activeBackground": "#37e4ffd5",
+		"scrollbarSlider.hoverBackground": "#37e4ff6d",
+		"list.inactiveSelectionBackground": "#7003ffca",
 		
 		
-		 
-		
-		
-		
-
 		
 	},
+	
 	"tokenColors": [
 		{
 			"name": "Comment",
@@ -53,8 +55,12 @@
 			"settings": {
 				"fontStyle": "italic",
 				"foreground": "#24f511d3"
+			
 			}
+			
+		
 		},
+	
 		{
 			"name": "Variables",
 			"scope": [
