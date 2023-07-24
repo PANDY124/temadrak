@@ -1,7 +1,7 @@
 {
   "name": "temadrak",
   "displayName": "temadrak",
-  "description": "PARA LOS AMANTES DE LOS TEMAS OBSCUROS",
+  "description": "",
   "version": "0.0.3",
   "engines": {
     "vscode": "^1.78.0"
